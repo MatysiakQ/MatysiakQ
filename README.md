@@ -2,14 +2,16 @@
 
 <div align="center">
 
-Full-Stack Developer focused on scalable backend systems, cloud infrastructure and production-ready applications.
+# Full-Stack Developer
 
-Building modern software with emphasis on architecture, automation, performance and developer experience.
+Building scalable backend systems, cloud infrastructure and production-ready applications.
+
+Focused on architecture, automation, performance and developer experience.
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+software;Backend+Engineering+%7C+Cloud+%7C+AI;Production-ready+applications;Automation+and+modern+infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+scalable+software;Backend+Engineering+%7C+Cloud+%7C+AI;Production-ready+applications;Automation+and+modern+infrastructure" />
 </p>
 
 ---
@@ -19,43 +21,41 @@ Building modern software with emphasis on architecture, automation, performance 
 I build applications that solve real-world problems — from modern web platforms and backend APIs to automation systems and cloud-based infrastructure.
 
 ### Main interests
-- backend engineering
-- distributed systems
-- DevOps & cloud
-- AI integrations
-- automation workflows
-- scalable architecture
-- developer tooling
+- Backend Engineering
+- Distributed Systems
+- DevOps & Cloud
+- AI Integrations
+- Automation Workflows
+- Scalable Architecture
+- Developer Tooling
 
 I enjoy designing systems that are not only functional, but also maintainable, scalable and production-ready.
 
 ---
 
-## Tech Stack
+# Tech Stack
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-000?style=for-the-badge&logo=redis)
+## Backend
 
-### Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,python,postgres,redis" />
+</p>
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
-![Terraform](https://img.shields.io/badge/Terraform-000?style=for-the-badge&logo=terraform)
-![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+## Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,terraform,linux,githubactions" />
+</p>
 
 ---
 
-## Featured Projects
+# Featured Areas
 
 ### Scalable Backend Systems
 Production-ready APIs, authentication systems, realtime communication and scalable backend architecture.
@@ -68,7 +68,7 @@ Projects integrating AI tooling, workflow automation and intelligent data proces
 
 ---
 
-## Engineering Focus
+# Engineering Focus
 
 ```txt
 ✔ Clean Architecture
@@ -84,19 +84,19 @@ Projects integrating AI tooling, workflow automation and intelligent data proces
 
 ---
 
-## GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatysiakQ&show_icons=true&hide_border=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatysiakQ&show_icons=true&theme=transparent&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatysiakQ&layout=compact&hide_border=true&theme=transparent)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatysiakQ&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## Currently Exploring
+# Currently Exploring
 
 - scalable distributed systems
 - AI-assisted development workflows
@@ -107,8 +107,20 @@ Projects integrating AI tooling, workflow automation and intelligent data proces
 
 ---
 
-## Contact
+# Connect
 
-- Portfolio: https://adamjastrzebski.bio/
+<p align="left">
+  <a href="https://github.com/MatysiakQ">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
 - LinkedIn: https://linkedin.com/in/adamjastrzębski
-- GitHub: https://github.com/MatysiakQ
+
+---
+
+# Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MatysiakQ&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
