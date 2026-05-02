@@ -8,17 +8,13 @@ Building scalable backend systems, cloud infrastructure and production-ready app
 
 Focused on architecture, automation, performance and developer experience.
 
-</div>
+<br/>
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=MatysiakQ&style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=MatysiakQ&label=Profile+Views&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/badge/COMMITS-500%2B-blue?style=for-the-badge)
 
-![](https://img.shields.io/github/followers/MatysiakQ?style=for-the-badge)
-
-![](https://img.shields.io/github/stars/MatysiakQ?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
-
-![](https://img.shields.io/github/commit-activity/m/MatysiakQ/MatysiakQ?style=for-the-badge)
+![](https://img.shields.io/badge/PROJECTS-20%2B-blue?style=for-the-badge)
 
 </div>
 
