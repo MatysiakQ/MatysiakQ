@@ -10,6 +10,18 @@ Focused on architecture, automation, performance and developer experience.
 
 </div>
 
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=MatysiakQ&label=Profile+Views&color=0e75b6&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/MatysiakQ?style=for-the-badge)
+
+![](https://img.shields.io/github/stars/MatysiakQ?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge)
+
+![](https://img.shields.io/github/commit-activity/m/MatysiakQ/MatysiakQ?style=for-the-badge)
+
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+scalable+software;Backend+Engineering+%7C+Cloud+%7C+AI;Production-ready+applications;Automation+and+modern+infrastructure" />
 </p>
@@ -84,18 +96,6 @@ Projects integrating AI tooling, workflow automation and intelligent data proces
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatysiakQ&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatysiakQ&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
 # Currently Exploring
 
 - scalable distributed systems
@@ -109,18 +109,5 @@ Projects integrating AI tooling, workflow automation and intelligent data proces
 
 # Connect
 
-<p align="left">
-  <a href="https://github.com/MatysiakQ">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
+- GitHub: https://github.com/MatysiakQ
 - LinkedIn: https://linkedin.com/in/adamjastrzębski
-
----
-
-# Profile Views
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=MatysiakQ&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
