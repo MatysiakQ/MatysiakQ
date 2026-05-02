@@ -1,9 +1,8 @@
 # Adam Jastrzębski
-![](https://komarev.com/ghpvc/?username=MatysiakQ&style=for-the-badge)
 
-![](https://img.shields.io/badge/COMMITS-500%2B-blue?style=for-the-badge)
+![](https://img.shields.io/badge/COMMITS-500%2B-blue?style=for-the-badge) ![](https://img.shields.io/badge/PROJECTS-20%2B-blue?style=for-the-badge) ![](https://komarev.com/ghpvc/?username=MatysiakQ&style=for-the-badge)
 
-![](https://img.shields.io/badge/PROJECTS-20%2B-blue?style=for-the-badge)
+
 <div align="center">
 
 # Full-Stack Developer
