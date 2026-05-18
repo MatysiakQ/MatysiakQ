@@ -164,13 +164,17 @@ https://github.com/MatysiakQ/NextAI
 
 ---
 
-# GitHub Stats
+# GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatysiakQ&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatysiakQ&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatysiakQ&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatysiakQ&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatysiakQ&theme=github_dark" />
 
 </div>
 
