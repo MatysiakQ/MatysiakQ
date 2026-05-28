@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Full-Stack Engineer • AI Automation • Cloud
+# Software Engineer • AI Automation • Cloud
 
 <br>
 
