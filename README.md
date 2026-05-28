@@ -9,13 +9,20 @@
 ![](https://img.shields.io/badge/PROJECTS-20%2B-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/FOCUS-Backend%20%26%20AI-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/STATUS-Actively%20Building-success?style=for-the-badge)
-![](https://komarev.com/ghpvc/?username=MatysiakQ&style=for-the-badge)
+![](https://img.shields.io/badge/FOUNDER-JastrzabDev-orange?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=MatysiakQ\&style=for-the-badge)
 
 <br><br>
 
 Building scalable backend systems, cloud infrastructure and production-ready applications.
 
 Focused on architecture, automation, AI integrations and developer experience.
+
+Founder of **JastrzabDev** — engineering-focused open-source tools and high-performance systems built for real-world usage.
+
+<a href="https://ko-fi.com/jastrzabdev">
+  <img src="https://img.shields.io/badge/Support-Ko--fi-ff5e5b?style=for-the-badge&logo=ko-fi&logoColor=white" />
+</a>
 
 </div>
 
@@ -32,27 +39,30 @@ Focused on architecture, automation, AI integrations and developer experience.
 I build applications and systems that solve real-world problems — from scalable backend APIs and automation platforms to cloud infrastructure and AI-powered workflows.
 
 My focus is creating software that is:
-- scalable
-- maintainable
-- production-ready
-- performance-oriented
+
+* scalable
+* maintainable
+* production-ready
+* performance-oriented
 
 I enjoy designing systems that combine clean architecture, automation and modern engineering practices.
+
+Alongside commercial and experimental projects, I’m also building **JastrzabDev** — a personal engineering brand focused on performance-oriented systems, backend tooling and open-source development.
 
 ---
 
 # Main Interests
 
-- Backend Engineering
-- AI Automation Systems
-- Distributed Systems
-- Cloud & DevOps
-- Infrastructure Automation
-- API Design
-- Scalable Architecture
-- Developer Tooling
-- System Design
-- Performance Optimization
+* Backend Engineering
+* AI Automation Systems
+* Distributed Systems
+* Cloud & DevOps
+* Infrastructure Automation
+* API Design
+* Scalable Architecture
+* Developer Tooling
+* System Design
+* Performance Optimization
 
 ---
 
@@ -95,10 +105,11 @@ I enjoy designing systems that combine clean architecture, automation and modern
 ## 🤖 Smart Robotic Hand Controller
 
 AI-powered robotic hand control system using:
-- OpenCV
-- MediaPipe
-- LabVIEW
-- Arduino
+
+* OpenCV
+* MediaPipe
+* LabVIEW
+* Arduino
 
 Features real-time hand tracking, gesture recognition and robotic manipulation.
 
@@ -110,10 +121,11 @@ https://github.com/MatysiakQ/Hand-Tracking-Control-System
 ## 🚀 NextAI
 
 Modern AI automation platform and business website built with:
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
+
+* Next.js
+* React
+* TypeScript
+* Tailwind CSS
 
 Focused on AI solutions, automation systems and modern frontend engineering.
 
@@ -144,23 +156,24 @@ https://github.com/MatysiakQ/NextAI
 
 # Currently Building
 
-- AI automation systems
-- scalable backend services
-- cloud-native applications
-- workflow integrations
-- production-ready web platforms
-- modern infrastructure tooling
+* AI automation systems
+* scalable backend services
+* cloud-native applications
+* workflow integrations
+* production-ready web platforms
+* modern infrastructure tooling
+* open-source systems under JastrzabDev
 
 ---
 
 # Current Learning Focus
 
-- distributed systems
-- observability & monitoring
-- scalable infrastructure
-- event-driven architecture
-- AI-assisted engineering workflows
-- high-performance backend services
+* distributed systems
+* observability & monitoring
+* scalable infrastructure
+* event-driven architecture
+* AI-assisted engineering workflows
+* high-performance backend services
 
 ---
 
@@ -183,12 +196,19 @@ https://github.com/MatysiakQ/NextAI
 # Connect
 
 ### 🌐 Portfolio
+
 https://adamjastrzebski.bio/
 
+### ☕ Support / Ko-fi
+
+https://ko-fi.com/jastrzabdev
+
 ### 💼 LinkedIn
+
 https://linkedin.com/in/adam-jastrzebski
 
 ### 💻 GitHub
+
 https://github.com/MatysiakQ
 
 ---
