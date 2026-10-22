@@ -16,9 +16,9 @@
 
 I am a junior developer working on web applications, C# plugins for **SCP: Secret Laboratory**, and smaller projects involving computer vision, automation and hardware.
 
-A part of my work is public on GitHub. Other projects are private because they are commercial or contain code that cannot be shared. The public repositories usually contain project descriptions, screenshots, documentation and selected tools rather than complete source code.
+Some of my work is public on GitHub. Other projects are private because they are commercial or contain code that cannot be shared. Public showcase repositories contain descriptions, screenshots and information about the technologies used in those projects.
 
-I am still learning and developing my skills through practical projects.
+I am still learning and improving through practical projects.
 
 ---
 
@@ -33,7 +33,7 @@ I am still learning and developing my skills through practical projects.
 - C# / .NET and EXILED
 - TypeScript, JavaScript, React and Next.js
 - Python, OpenCV and MediaPipe
-- Java and Spring Boot
+- Java, Spring Boot and PostgreSQL
 - Kotlin, PHP, HTML and CSS
 
 ### Tools
@@ -50,7 +50,7 @@ I am still learning and developing my skills through practical projects.
 - Raspberry Pi and Arduino
 - ProjectMER and AudioPlayerApi
 
-The exact stack depends on the project. Some technologies listed above come from private projects and are not visible in the public code statistics.
+The exact stack depends on the project. Several technologies above come from private projects and are described in their public showcase repositories.
 
 ---
 
@@ -99,7 +99,7 @@ A custom SCP plugin with its own abilities, audio, schematic integration, config
 
 ### 📦 Warehouse Management System
 
-A commercial WMS project for inventory tracking, warehouse operations, reservations and user roles. The source code is private, but the public repository contains screenshots and a description of the system.
+A commercial WMS project for inventory tracking, warehouse operations, reservations and user roles. The source code is private, while the public repository documents the project and its technology stack.
 
 **Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Spring Security, JWT and Docker.
 
@@ -109,9 +109,9 @@ A commercial WMS project for inventory tracking, warehouse operations, reservati
 
 ### 🧾 E-faktura system
 
-A private commercial project focused on electronic invoicing and business workflows. The source code is not public, so only a general project description can be shared.
+A private commercial project focused on electronic invoicing and business workflows. The source code is not public, so only a general description and the main technology used can be shared.
 
-**Technologies used:** Kotlin and related backend tools.
+**Technology:** Kotlin.
 
 ---
 
@@ -120,6 +120,7 @@ A private commercial project focused on electronic invoicing and business workfl
 - **FreshAmmoRules** — configurable ammunition management plugin for SCP: Secret Laboratory
 - **SCP Start Freezer** — configurable spawn protection plugin for SCPs
 - **SCP Escape System** — escape mechanics and end-round logic for SCPs
+- **SCP-1048** — commercial custom role showcase using C#, Unity, Mirror and ProjectMER
 - **HpLimiter** — configurable HP and HumeShield management
 - **GlutAccess** — checkpoint access plugin for Tutorial roles
 - **PionierART** — commercial event production website using React, TypeScript, Vite and Tailwind CSS
@@ -127,6 +128,22 @@ A private commercial project focused on electronic invoicing and business workfl
 - Private WMS, e-faktura, CV and AI-related projects
 
 [See all public repositories →](https://github.com/MatysiakQ?tab=repositories)
+
+---
+
+## Stack used across my projects
+
+This list includes both public projects and private commercial work:
+
+| Area | Technologies |
+|---|---|
+| Game plugins | C#, .NET, EXILED, ProjectMER, Unity, Mirror |
+| Web | TypeScript, JavaScript, React, Next.js, Vite, Tailwind CSS |
+| Backend | Java, Spring Boot, Spring Data JPA, Hibernate, Kotlin |
+| Databases and security | PostgreSQL, Spring Security, JWT |
+| Computer vision | Python, OpenCV, MediaPipe, NumPy |
+| Hardware | Raspberry Pi, Arduino, LabVIEW, PCA9685 |
+| Tools | Git, GitHub, Docker, Linux, Visual Studio, VS Code, Vercel |
 
 ---
 
@@ -143,7 +160,7 @@ A private commercial project focused on electronic invoicing and business workfl
 
 </div>
 
-> The public language chart does not show the complete stack. Several of my projects are private, and some public repositories are documentation/showcase repositories without their original source code.
+> GitHub's public language statistics show only languages detected in repositories and files that GitHub can analyze publicly. Some of the technologies listed above are used in private projects and are documented in public showcase repositories instead.
 
 ---
 
