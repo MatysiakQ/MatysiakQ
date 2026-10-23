@@ -97,6 +97,16 @@ A custom SCP plugin with its own abilities, audio, schematic integration, config
 
 ---
 
+### 🧸 SCP-1048
+
+A commercial custom SCP role project built with C#, Unity, Mirror and ProjectMER. The public repository is a showcase with project context and technologies.
+
+**Technologies:** C#, Unity, Mirror and ProjectMER.
+
+[Project overview →](https://github.com/MatysiakQ/JastrzabDEV--SCP1048--PUBLIC)
+
+---
+
 ### 📦 Warehouse Management System
 
 A commercial WMS project for inventory tracking, warehouse operations, reservations and user roles. The source code is private, while the public repository documents the project and its technology stack.
@@ -109,9 +119,11 @@ A commercial WMS project for inventory tracking, warehouse operations, reservati
 
 ### 🧾 E-faktura system
 
-A private commercial project focused on electronic invoicing and business workflows. The source code is not public, so only a general description and the main technology used can be shared.
+A private commercial project focused on electronic invoicing and business workflows. The public repository is a showcase/documentation page for the project, while the source code remains private.
 
 **Technology:** Kotlin.
+
+[Project overview →](https://github.com/MatysiakQ/JastrzabDEV--e-faktura--PUBLIC)
 
 ---
 
@@ -120,12 +132,11 @@ A private commercial project focused on electronic invoicing and business workfl
 - **FreshAmmoRules** — configurable ammunition management plugin for SCP: Secret Laboratory
 - **SCP Start Freezer** — configurable spawn protection plugin for SCPs
 - **SCP Escape System** — escape mechanics and end-round logic for SCPs
-- **SCP-1048** — commercial custom role showcase using C#, Unity, Mirror and ProjectMER
 - **HpLimiter** — configurable HP and HumeShield management
 - **GlutAccess** — checkpoint access plugin for Tutorial roles
 - **PionierART** — commercial event production website using React, TypeScript, Vite and Tailwind CSS
 - **Java Spring university project**
-- Private WMS, e-faktura, CV and AI-related projects
+- Private CV and AI-related projects
 
 [See all public repositories →](https://github.com/MatysiakQ?tab=repositories)
 
